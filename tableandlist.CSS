@@ -1,0 +1,18 @@
+table{
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+tr{
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid red;
+    border-collapse: collapse;
+    color: rgb(57, 239, 57);
+}
+th{
+    border: 1px solid red;
+    border-collapse: collapse;
+    background-color: aqua;
+}
